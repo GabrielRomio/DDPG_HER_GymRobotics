@@ -11,6 +11,7 @@ The OpenAI Gym and Gymnasium-Robotics environments provide robust platforms for 
 Therefore, combining DDPG with HER in these simulated environments allows for training robots to perform complex tasks and precise object manipulation. By training models in simulated environments, this learning can be transferred to physical robots, resulting in more adaptable industrial systems capable of handling unpredictable variables and making real-time adjustments. This is particularly useful in industries requiring precision, such as automotive and manufacturing, where robots need to quickly adapt to different scenarios without manual reprogramming. These advances can enhance industrial processes, reducing costs and increasing productivity in dynamic and complex environments.
 
 This work presents an example of training based on the conditions mentioned above. A 98% success rate was achieved with training over 35,000,000 interactions across 12 simultaneous environments. The training was conducted using a Ryzen 5 5800 CPU over 6.5 hours.
+A demonstration can be found at: https://www.youtube.com/shorts/KCNRaKu_uFA
 
 Developed by Gabriel Romio
 
@@ -27,6 +28,7 @@ Os ambientes OpenAI Gym e Gymnasium-Robotics fornecem plataformas robustas para 
 Assim, a combinação de DDPG com HER nesses ambientes simulados permite treinar robôs para realizar tarefas complexas e manipulação precisa de objetos. Ao treinar modelos em ambientes simulados, pode-se transferir esse aprendizado para robôs físicos, resultando em sistemas industriais mais adaptáveis, capazes de lidar com variáveis imprevisíveis e realizar ajustes em tempo real. Isso é particularmente útil em indústrias que exigem precisão, como automotiva e manufatura, onde robôs precisam adaptar-se rapidamente a diferentes cenários sem a necessidade de reprogramação manual. Esses avanços podem aperfeiçoar processos industriais, reduzindo custos e aumentando a produtividade em ambientes dinâmicos e complexos.
 
 Este trabalho apresenta um exemplo de treinamento com base nas condições citadas acima. Obteve-se 98% de aproveitamento com um treinamento ao longo de 35.000.000 de interações em 12 ambientes simultâneos. O treinamento se deu utilizando como hardware uma CPU Ryzen 5 5800, ao longo de 6,5 horas.
+Uma demonstração pode ser vista em: https://www.youtube.com/shorts/KCNRaKu_uFA
 
 Desenvolvido por Gabriel Romio
 
